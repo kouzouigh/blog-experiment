@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello world
-date: 2019-06-13 00:00 +0200
+title: Hello world!
+date: 2019-06-12 00:00 +0200
 category: personal
 tags: fun
 ---
